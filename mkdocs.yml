@@ -123,6 +123,7 @@ nav:
   - Getting started:
     - Installation: getting-started.md
     - Why Decompose?: why-decompose.md
+    - Samples: samples.md
     - License: license.md
   - Components: 
     - Overview: component/overview.md
